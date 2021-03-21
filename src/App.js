@@ -4,7 +4,7 @@ import Main from "./components/Main";
 
 
 function App() {
- 
+ // eslint-disable-next-line
   const [attendance, setAttendance]= useState([
     {name: "Atif", 
     course: "Web Dev" , 
